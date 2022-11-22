@@ -5,8 +5,10 @@
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Name you shit" name="Name" id="Name" required>
     <br>
+    <br>
+    <br>		
     
     <label for="mobile"><b>Enter XDDD123 mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
